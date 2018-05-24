@@ -42,3 +42,23 @@ a {
 img:hover {
     opacity: 1;
 }
+
+span.h:hover {
+    color: red;
+}
+
+span.e:hover {
+    color: orange;
+}
+
+span.l1:hover {
+    color: yellow;
+}
+
+span.l2:hover {
+    color: green;
+}
+
+span.o1:hover {
+    color: blue; 
+}
