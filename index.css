@@ -30,7 +30,7 @@ p {
 img {
     height: 25px;
     width: 25px;
-    opactiy: .5;
+    opacity: .5;
 }
 
 a {
@@ -44,21 +44,57 @@ img:hover {
 }
 
 span.h:hover {
-    color: red;
+    color: #FF0000;
 }
 
 span.e:hover {
-    color: orange;
+    color: #FF0033;
 }
 
 span.l1:hover {
-    color: yellow;
+    color: #FF0066;
 }
 
 span.l2:hover {
-    color: green;
+    color: #FF0099;
 }
 
 span.o1:hover {
-    color: blue; 
+    color: #FF00CC; 
+}
+
+span.comma:hover {
+    color: #FF00FF;
+}
+
+span.i:hover {
+    color: #FF33FF;
+}
+
+span.apos:hover {
+    color: #FF66FF
+}
+
+span.m:hover {
+    color: #FF66CC
+}
+
+span.a1:hover {
+    color: #FF6699;
+}
+
+span.a2:hover {
+    color: #FF6666;
+}
+
+span.r:hover {
+    color: #FF6633;
+}
+
+span.o2:hover {
+    color: #FF6600;
+}
+
+span.n:hover {
+    color: #FF3300;
 }
