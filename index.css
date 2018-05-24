@@ -30,6 +30,7 @@ p {
 img {
     height: 25px;
     width: 25px;
+    opactiy: .5;
 }
 
 a {
@@ -39,6 +40,5 @@ a {
 }
 
 img:hover {
-    height: 2%;
-    width: 2%;
+    opacity: 1;
 }
