@@ -4,6 +4,10 @@
     color: #AF08D3;
 }
 
+html {
+    background-color: #FFFFF0;
+}
+
 h1 {
     font-size: 80px;
     line-height: 80px;
