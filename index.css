@@ -63,4 +63,5 @@ p > a > img {
 h1 > img {
     width: 100px;
     height: 100px;
+    opacity: 1;
 }
