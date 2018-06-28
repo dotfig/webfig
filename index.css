@@ -42,29 +42,12 @@ a {
     text-decoration: none;
 }
 
-#link {
-    margin: 5px;
-    background-color: white;
-}
-
-#link:hover {
-    background-color: #F8F8FF;
-}
-
 div.bottom {
     bottom: 0;
 }
 
 p {
-    font-size: 40px;
     line-height: 40px;
-    font-weight: 900;
-    letter-spacing: -1px;
-    font-family: 'Tajawal', sans-serif;
-    color: #2E2E2E;
-    text-decoration: none;
-    background-color: transparent;
-    opacity: 1;
     text-align: center;
 }
 
