@@ -28,11 +28,6 @@ h1 {
     font-size: 30px;
 }
 
-img {
-      width: 200px;
-      height: 200px;
-}
-
 img:hover {
     opacity: .5;
 }
@@ -42,6 +37,6 @@ a {
 }
 
 div > img {
-    width: 20px;
-    height: 20px;
+    width: 100px;
+    height: 100px;
 }
