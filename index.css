@@ -22,8 +22,8 @@ h1 {
 }
   
 .flex-container > div {
-    margin: 20px;
-    padding: 20px;
+    margin: 5px;
+    padding: 5px;
 }
 
 img:hover {
