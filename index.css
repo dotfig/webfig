@@ -14,6 +14,7 @@ h1 {
     background-color: transparent;
     margin-bottom: 10px;
     text-align: center;
+    margin-top: auto;
 }
 
 h4 {
@@ -29,11 +30,11 @@ h4 {
 .flex-container {
     display: flex;
     justify-content: center;
+    margin-top: 5px;
 }
   
 .flex-container > div {
     padding: 2px;
-    margin-top: 10px;
 }
 
 img:hover {
