@@ -41,16 +41,7 @@ a {
     text-decoration: none;
 }
 
-div.bottom {
-    bottom: 0;
-}
-
-p {
-    line-height: 40px;
-    text-align: center;
-}
-
-p > a > img {
+div > img {
     width: 20px;
     height: 20px;
 }
