@@ -23,8 +23,7 @@ h1 {
   
 .flex-container > div {
     margin: 20px;
-    padding: 60px;
-    font-size: 30px;
+    padding: 20px;
 }
 
 img:hover {
