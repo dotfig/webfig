@@ -16,6 +16,13 @@ h1 {
     text-align: center;
 }
 
+h4 {
+    font-family: 'Open Sans Condensed', sans-serif;
+    color: #2E2E2E;
+    letter-spacing: -1px;
+    font-size: 40px;
+}
+
 .flex-container {
     display: flex;
     justify-content: center;
