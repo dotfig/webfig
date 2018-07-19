@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Tajawal:200); 
+@import url('https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300');
 
 *::selection {
     color: #AF08D3;
@@ -9,7 +9,7 @@ h1 {
     line-height: 80px;
     font-weight: 800;
     letter-spacing: -1px;
-    font-family: 'Tajawal', sans-serif;
+    font-family: 'Open Sans Condensed', sans-serif;
     color: #2E2E2E;
     text-decoration: none;
     background-color: transparent;
